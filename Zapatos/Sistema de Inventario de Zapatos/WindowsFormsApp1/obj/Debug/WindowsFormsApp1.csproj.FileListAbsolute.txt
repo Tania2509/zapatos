@@ -1,0 +1,14 @@
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formularios.frmMantenimientoZapatos.resources
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\bin\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\bin\Debug\Modelos.pdb
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config

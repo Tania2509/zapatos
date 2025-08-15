@@ -1,0 +1,6 @@
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\Modelos\bin\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\Modelos\bin\Debug\Modelos.pdb
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\Modelos\obj\Debug\Modelos.dll
+C:\Users\jrlop\OneDrive\Desktop\Zapatos\Zapatos\Sistema de Inventario de Zapatos\Modelos\obj\Debug\Modelos.pdb
