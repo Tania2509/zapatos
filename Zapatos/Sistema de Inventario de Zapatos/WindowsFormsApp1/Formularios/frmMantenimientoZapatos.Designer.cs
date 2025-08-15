@@ -49,7 +49,7 @@
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.dgvEdit = new System.Windows.Forms.DataGridView();
             this.btnActualizar = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btnBuscar = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
@@ -262,7 +262,7 @@
             // 
             this.tabPage2.Controls.Add(this.groupBox4);
             this.tabPage2.Controls.Add(this.btnActualizar);
-            this.tabPage2.Controls.Add(this.button4);
+            this.tabPage2.Controls.Add(this.btnBuscar);
             this.tabPage2.Controls.Add(this.txtBuscar);
             this.tabPage2.Controls.Add(this.label9);
             this.tabPage2.Controls.Add(this.groupBox3);
@@ -306,15 +306,14 @@
             this.btnActualizar.Text = "Actualizar registro";
             this.btnActualizar.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnBuscar
             // 
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(1034, 80);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(99, 41);
-            this.button4.TabIndex = 20;
-            this.button4.Text = "Buscar";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscar.Location = new System.Drawing.Point(1034, 80);
+            this.btnBuscar.Name = "btnBuscar";
+            this.btnBuscar.Size = new System.Drawing.Size(99, 41);
+            this.btnBuscar.TabIndex = 20;
+            this.btnBuscar.Text = "Buscar";
             // 
             // txtBuscar
             // 
@@ -474,7 +473,7 @@
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.DataGridView dgvEdit;
         private System.Windows.Forms.Button btnActualizar;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btnBuscar;
         private System.Windows.Forms.TextBox txtBuscar;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.GroupBox groupBox3;
