@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\windowsformsapp1\\formularios\\frmmantenimientozapatos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formularios\\frmmantenimientozapatos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\jrlop\\onedrive\\desktop\\zapatos\\zapatos\\sistema de inventario de zapatos\\windowsformsapp1\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\windowsformsapp1\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\jrlop\\onedrive\\desktop\\zapatos\\zapatos\\sistema de inventario de zapatos\\windowsformsapp1\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formularios\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FA7D7F4-E422-40F2-A698-5A1DE817FB1D}|Modelos\\Modelos.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\modelos\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FA7D7F4-E422-40F2-A698-5A1DE817FB1D}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023295A8-D8F7-414E-8DED-8A8D6F3F206C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FA7D7F4-E422-40F2-A698-5A1DE817FB1D}|Modelos\\Modelos.csproj|C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\modelos\\entidades\\talla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,37 +39,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmMantenimientoZapatos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.Designer.cs",
-              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.Designer.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.Designer.cs*",
-              "ViewState": "AgIAACkBAAAAAAAAAAAiwDsBAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T17:06:31.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Program.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Program.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T15:57:49.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "frmMantenimientoZapatos.cs",
               "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
-              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs*",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAcwGUAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T21:25:11.074Z",
               "EditorCaption": ""
@@ -88,20 +55,19 @@
               "Title": "frmMantenimientoZapatos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
-              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T21:10:03.693Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-14T21:10:03.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Zapato.cs",
               "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\Modelos\\Entidades\\Zapato.cs",
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Zapato.cs",
-              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\Modelos\\Entidades\\Zapato.cs*",
-              "RelativeToolTip": "Modelos\\Entidades\\Zapato.cs*",
+              "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\Modelos\\Entidades\\Zapato.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Zapato.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAqwFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T19:45:50.321Z",
@@ -109,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Talla.cs",
               "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\Modelos\\Entidades\\Talla.cs",
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Talla.cs",
@@ -117,11 +83,12 @@
               "RelativeToolTip": "Modelos\\Entidades\\Talla.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:44:16.229Z"
+              "WhenOpened": "2025-08-14T19:44:16.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\Modelos\\Entidades\\Categoria.cs",
               "RelativeDocumentMoniker": "Modelos\\Entidades\\Categoria.cs",
@@ -129,11 +96,12 @@
               "RelativeToolTip": "Modelos\\Entidades\\Categoria.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:44:05.164Z"
+              "WhenOpened": "2025-08-14T19:44:05.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ConexionDB.cs",
               "DocumentMoniker": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\Modelos\\Conexion\\ConexionDB.cs",
               "RelativeDocumentMoniker": "Modelos\\Conexion\\ConexionDB.cs",
@@ -141,7 +109,8 @@
               "RelativeToolTip": "Modelos\\Conexion\\ConexionDB.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:38:13.218Z"
+              "WhenOpened": "2025-08-14T19:38:13.218Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
               "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwGUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T21:25:11.074Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\jrlop\\OneDrive\\Desktop\\Zapatos\\Zapatos\\Sistema de Inventario de Zapatos\\WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
               "RelativeToolTip": "WindowsFormsApp1\\Formularios\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T21:10:03.693Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-14T21:10:03.693Z"
             },
             {
               "$type": "Document",
@@ -84,7 +83,8 @@
               "RelativeToolTip": "Modelos\\Entidades\\Talla.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:44:16.229Z"
+              "WhenOpened": "2025-08-14T19:44:16.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,7 +96,8 @@
               "RelativeToolTip": "Modelos\\Entidades\\Categoria.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:44:05.164Z"
+              "WhenOpened": "2025-08-14T19:44:05.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -108,7 +109,8 @@
               "RelativeToolTip": "Modelos\\Conexion\\ConexionDB.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:38:13.218Z"
+              "WhenOpened": "2025-08-14T19:38:13.218Z",
+              "EditorCaption": ""
             }
           ]
         }

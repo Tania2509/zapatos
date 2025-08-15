@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vistas", "Vistas", "{2C5D37
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{2FA7D7F4-E422-40F2-A698-5A1DE817FB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{023295A8-D8F7-414E-8DED-8A8D6F3F206C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "WindowsFormsApp1\Vistas.csproj", "{023295A8-D8F7-414E-8DED-8A8D6F3F206C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
